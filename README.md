@@ -28,7 +28,7 @@ Out of the box, Backstage includes:
 
 Backstage was created by Spotify but is now hosted by the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io) as an Incubation level project. For more information, see the [announcement](https://backstage.io/blog/2022/03/16/backstage-turns-two#out-of-the-sandbox-and-into-incubation).
 
-## Project roadmap
+## Project roadmap 
 
 For information about the detailed project roadmap including delivered milestones, see [the Roadmap](https://backstage.io/docs/overview/roadmap).
 
